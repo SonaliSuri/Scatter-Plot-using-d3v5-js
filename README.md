@@ -7,4 +7,8 @@ Following features are present:
 3. Added legends
 4. Both x-axis and y-axis are scaled automatically
 5. Tooltips
+
+Output:
+![Alt text](https://github.com/SonaliSuri/Scatter-Plot-using-d3v5-js/blob/master/Scatter%20Plot.png)
+ 
 Link to demo : https://sonalisuri.github.io/ScatterPlot/index.html
