@@ -6,4 +6,5 @@ Following features are present:
 2. Pan and drag
 3. Added legends
 4. Both x-axis and y-axis are scaled automatically
+5. Tooltips
 Link to demo : https://sonalisuri.github.io/ScatterPlot/index.html
